@@ -23,7 +23,7 @@ This project analyzes customer data for a travel agency to identify distinct cus
 ---
 
 ## Repository Structure  
-- `Jupyter_Notebook.ipynb`: Contains the Python code for data analysis, clustering, and visualizations.  
+- `Customer_Segmentation.ipynb`: Contains the Python code for data analysis, clustering, and visualizations.  
 - `Customer_Segmentation_Report.pdf`: The business report summarizing findings, recommendations, and visualizations.  
 - `README.md`: Documentation for the repository.  
 - `Data/Customer_Data.csv`: The dataset used for analysis.  
